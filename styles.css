@@ -1,0 +1,8 @@
+table, th, td {
+    border: 1px groove black
+}
+
+th, td {
+    text-align: center;
+    padding: 5px;
+}
