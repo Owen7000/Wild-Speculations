@@ -1,13 +1,11 @@
-/*
 table, th, td {
     border: 1px groove black
 }
-*/
+
 
 th, td {
     text-align: center;
     padding: 5px;
-    border-bottom: #121212;
 }
 
 tr:hover {background-color: #D6EEEE;}
