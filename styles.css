@@ -1,8 +1,15 @@
+/*
 table, th, td {
     border: 1px groove black
 }
-
+*/
 th, td {
     text-align: center;
     padding: 5px;
 }
+
+tr {
+    border-bottom: 1px solid #ddd;
+  }
+
+tr:hover {background-color: #D6EEEE;}
